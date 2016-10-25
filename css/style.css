@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+
+
+  min-width: 1160px;
+}
+#wrapper {
+  text-align: center;
+  height: 200px;
+  background-color: darkgrey;
+}
